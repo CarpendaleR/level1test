@@ -57,6 +57,7 @@ print(f"{name_first} won {rounds_won} and the Computer won {rounds_lost}.")
 if rounds_won > rounds_lost:
     print(f"{name_first} is the winner!")
     #add przie support
+    #round 2 test
 else:
     print(f"The computer got you this time {name_first}, better luck next time")
 print(f"Thanks for playing.")
