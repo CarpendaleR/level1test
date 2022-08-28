@@ -56,6 +56,7 @@ while i < number_of_rounds:
 print(f"{name_first} won {rounds_won} and the Computer won {rounds_lost}.")
 if rounds_won > rounds_lost:
     print(f"{name_first} is the winner!")
+    #add przie support
 else:
     print(f"The computer got you this time {name_first}, better luck next time")
 print(f"Thanks for playing.")
